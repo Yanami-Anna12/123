@@ -4,6 +4,7 @@ from matplotlib.gridspec import GridSpec
 fig = plt.figure(figsize=(8, 4))
 
 # nrows 子图总行数, ncols 子图总列数
+# 规整+非规整
 gs = GridSpec(2, 3)
 ax1 = fig.add_subplot(gs[0, 0])
 ax2 = fig.add_subplot(gs[0, 1])
