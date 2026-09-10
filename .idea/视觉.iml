@@ -2,6 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/02Numpy库与矩阵处理/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/03matplotlib绘图/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/04Pandas数据处理/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/05微积分,机器学习/机器学习代码/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/课程软件工具包" />
     </content>
     <orderEntry type="jdk" jdkName="py312" jdkType="Python SDK" />
