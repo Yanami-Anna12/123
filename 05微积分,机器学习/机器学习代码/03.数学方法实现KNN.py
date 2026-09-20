@@ -1,7 +1,7 @@
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 import matplotlib.pyplot as plt
-
+wwwww
 # 1.定义数据集
 point1 = [[7.7,6.1],[3.1,5.9],[8.6,8.8],[9.5,7.3],[3.9,7.4],[5,5.3],[1,7.3]]
 point2 = [[0.2,2.2],[4.5,4.1],[0.5,1.1],[2.7,3],[4.7,0.2],[2.9,3.3],[7.3,7.9]]
